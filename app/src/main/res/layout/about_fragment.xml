@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ui.About.AboutFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="20dp"
+        android:text="ABOUT PAGE"
+        android:textColor="#141313"
+        android:textSize="40sp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="20dp"
+        android:text="JNTUK University College of Engineering Vizianagaram is one of the constituent Engineering Colleges of JNTUK playing a vital role in imparting Technological Education in the state of Andhra Pradesh since its establishment in the year 2007. The state-of-the-art campus is spread across 80 Acres in Dwarapudi panchayat at a distance of 8 KMs from Vizianagaram. It functions under the directions of Executive Council, Vice chancellor and Registrar of JNTU Kakinada. Principal is the executive head of the institution and Chairman of the College academic committee comprising all professors and heads of the departments. The Vice Principal, Heads of the departments and Members of College academic committee help in academic administration and effective functioning of the Institution."
+        android:textSize="20sp" />
+
+</LinearLayout>
